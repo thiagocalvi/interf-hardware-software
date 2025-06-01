@@ -1,0 +1,12 @@
+# Arquivos compilados
+executavel_levenshtein
+
+# Arquivos objeto
+*.o
+
+# Arquivo de configuração do VS Code
+.vscode/
+
+# Diretórios de build
+build/
+release/
